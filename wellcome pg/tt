@@ -1,0 +1,12 @@
+ <div class="dashboard">
+        <div class="sidebar">
+            <div class="menu-item active">Dashboard</div>
+            <div class="menu-item">Attendance record</div>
+            <div class="menu-item">Leave request</div>
+            <div class="menu-item">Leave history</div>
+            <div class="menu-item">Notification</div>
+            <div class="menu-item">Reports</div>
+            <div class="menu-item">Setting</div>
+            <div class="menu-item">profile</div>
+            <div class="menu-item">log out</div>
+        </div>
